@@ -1,236 +1,136 @@
 [[Minuit2]]
 arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "5d0308810b137210dfb331dee211245da29c133e"
-libc = "glibc"
-os = "linux"
-
-    [[Minuit2.download]]
-    sha256 = "2f5b93023998bf799667b6ef1786f977ac201dcc2dfbcac5b67992bbf1a082fc"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.22.6+0/Minuit2.v6.22.6.aarch64-linux-gnu-cxx03.tar.gz"
-[[Minuit2]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "6b985736de6b88142b7bb251a2c91ee733ec6109"
-libc = "glibc"
-os = "linux"
-
-    [[Minuit2.download]]
-    sha256 = "a4b573a74abf68237d3f81c2d59ff592ac90e7e83a6db5e7d5fa9c0f5a1a33d8"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.22.6+0/Minuit2.v6.22.6.aarch64-linux-gnu-cxx11.tar.gz"
-[[Minuit2]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "ee06184117a41258d7b26bca5f20c980281d49c0"
-libc = "musl"
-os = "linux"
-
-    [[Minuit2.download]]
-    sha256 = "c25ec4005c0b94b18c68cacb273a68ac0ebb243c87c8ec22f5866b1cc5612f2e"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.22.6+0/Minuit2.v6.22.6.aarch64-linux-musl-cxx03.tar.gz"
-[[Minuit2]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "8cbeec096f1c5cb6ba9d1902c130c4712b97e112"
-libc = "musl"
-os = "linux"
-
-    [[Minuit2.download]]
-    sha256 = "ebe5b2dee5b9b887de986ebac354ea9238910f9703e79f90f3df126b395418dd"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.22.6+0/Minuit2.v6.22.6.aarch64-linux-musl-cxx11.tar.gz"
-[[Minuit2]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "b2fa5a2b65b04257d9b6428726629d36da56ac7d"
-libc = "glibc"
-os = "linux"
-
-    [[Minuit2.download]]
-    sha256 = "552d8c1e8fdd421d624661118b7bdd10d3f4a8427884fc3c6483145aff4f237f"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.22.6+0/Minuit2.v6.22.6.armv7l-linux-gnueabihf-cxx03.tar.gz"
-[[Minuit2]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d13057b322c70d5634d1600033382af982b16faf"
-libc = "glibc"
-os = "linux"
-
-    [[Minuit2.download]]
-    sha256 = "9b4ff0c8714ed8ece67bae03578e99a08d439b91c6d7e9c6316dafe9e77713d9"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.22.6+0/Minuit2.v6.22.6.armv7l-linux-gnueabihf-cxx11.tar.gz"
-[[Minuit2]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "8db3fbbf7c68ef1900478db030b5f7eacfeaf2a8"
-libc = "musl"
-os = "linux"
-
-    [[Minuit2.download]]
-    sha256 = "b2bcb32df2d908af7f1a12f3e5ae1a8832b5f60519331fa1b4ef8876f1e2af39"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.22.6+0/Minuit2.v6.22.6.armv7l-linux-musleabihf-cxx03.tar.gz"
-[[Minuit2]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "48f4ab9a19a5f93bd07b19c6656cc9884adadeb2"
-libc = "musl"
-os = "linux"
-
-    [[Minuit2.download]]
-    sha256 = "2cef97af01b728d17e29c6a9ef42379e6fb8e005535861fb8d9fa2ea2837886c"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.22.6+0/Minuit2.v6.22.6.armv7l-linux-musleabihf-cxx11.tar.gz"
-[[Minuit2]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "a0260a4c0b74f8c91fff49a0086e6b9743e8a86f"
-libc = "glibc"
-os = "linux"
-
-    [[Minuit2.download]]
-    sha256 = "87b508ba574309690591b65f68beb6e5cb64ef545508f675b6ea435a3bb429e4"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.22.6+0/Minuit2.v6.22.6.i686-linux-gnu-cxx03.tar.gz"
-[[Minuit2]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "132f2a9388e2995b2e366020656d2f8792be5468"
-libc = "glibc"
-os = "linux"
-
-    [[Minuit2.download]]
-    sha256 = "552e5a4f57a4f63838c7db268feea866047a669b27df480aa693b91804da01db"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.22.6+0/Minuit2.v6.22.6.i686-linux-gnu-cxx11.tar.gz"
-[[Minuit2]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f39f45e4049c8951896bca68d9bc05320da9213b"
-libc = "musl"
-os = "linux"
-
-    [[Minuit2.download]]
-    sha256 = "6bb2bf27dcb3deb6829ab9e67bae29902467dcca8b91db70c521cb581e660c39"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.22.6+0/Minuit2.v6.22.6.i686-linux-musl-cxx03.tar.gz"
-[[Minuit2]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "407c0564d99c7ffb11b7e4ac020ff1a5398f1135"
-libc = "musl"
-os = "linux"
-
-    [[Minuit2.download]]
-    sha256 = "c0a4ccb99f930595337bd8ef75ec93b9f8ff061c5d9d681bbcb47f5e21443939"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.22.6+0/Minuit2.v6.22.6.i686-linux-musl-cxx11.tar.gz"
-[[Minuit2]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "d3ec42c6c0f8506ccbc00350a50c10d332c53830"
-os = "windows"
-
-    [[Minuit2.download]]
-    sha256 = "fe67d3951fc2ee5e5b1c50254d6745e3acfb95d7d7c39bfaf941278c0bf53c9d"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.22.6+0/Minuit2.v6.22.6.i686-w64-mingw32-cxx03.tar.gz"
-[[Minuit2]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "62e4fc11d84b3cfc20678a3035ec8911f3eee6b7"
-os = "windows"
-
-    [[Minuit2.download]]
-    sha256 = "010cd26884ffaacbd228996dc3d2f3c4f5a8b0416c83b2fa6e9ebecdbd609883"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.22.6+0/Minuit2.v6.22.6.i686-w64-mingw32-cxx11.tar.gz"
-[[Minuit2]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "ab4379430718696a38567a24ecce01d44263e12e"
-libc = "glibc"
-os = "linux"
-
-    [[Minuit2.download]]
-    sha256 = "fd8413401ecc2bd0b6b06c2bc250f653f0b8c4011ca7fdb85260dae03ba0ede5"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.22.6+0/Minuit2.v6.22.6.powerpc64le-linux-gnu-cxx03.tar.gz"
-[[Minuit2]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "259ac0e17650408e95b0eff7ac9956b6709d7283"
-libc = "glibc"
-os = "linux"
-
-    [[Minuit2.download]]
-    sha256 = "3c67d51ce91401be397c037ff9ce640ffb6867c72a24f8089a25d0c30f1fc43e"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.22.6+0/Minuit2.v6.22.6.powerpc64le-linux-gnu-cxx11.tar.gz"
-[[Minuit2]]
-arch = "x86_64"
-git-tree-sha1 = "e5f4b7042a650fc3c42360a4cf4ae077f9c19ca2"
+git-tree-sha1 = "4afa81fd17c8d2616a0895f609579f19a4e4e4b7"
 os = "macos"
 
     [[Minuit2.download]]
-    sha256 = "dc6e7cf172b3e9be75427141c7d295ca9525fc4f00d3c2df40e84fac5315bc5d"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.22.6+0/Minuit2.v6.22.6.x86_64-apple-darwin.tar.gz"
+    sha256 = "a25d06802a27d80b1d8463d7ba1e94d31ab3753c0c5d3e0a34e281e0b117fb6e"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.34.2+0/Minuit2.v6.34.2.aarch64-apple-darwin.tar.gz"
 [[Minuit2]]
-arch = "x86_64"
+arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b7667d3c350cc72a411b563ed2bb19b99a659964"
+git-tree-sha1 = "fccb3e6bea96cc702fbb65e07a5bb2e638bdd79a"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2.download]]
-    sha256 = "2301dc4dc4f2512b628686a0616c89d38825113f28e9d94dea8f46831650f12f"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.22.6+0/Minuit2.v6.22.6.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "93beefaa9595165a4ca156f4eadde5227c32cef2bc8094db0b1783c4b2b19ff6"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.34.2+0/Minuit2.v6.34.2.aarch64-linux-gnu-cxx03.tar.gz"
 [[Minuit2]]
-arch = "x86_64"
+arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ef62f9f450705aab23f952720e0f329d58515a42"
+git-tree-sha1 = "b02d467eed94b7dedd760340242b466dbe64901a"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2.download]]
-    sha256 = "51a1051bd35c3f3a2b892159edeffddd656c5a427fad69da0eba49f1c6c9e190"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.22.6+0/Minuit2.v6.22.6.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "ed914c614f2a5037624fd60b3075406dda7f8ed3175fae76037d9741ebff4b5b"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.34.2+0/Minuit2.v6.34.2.aarch64-linux-gnu-cxx11.tar.gz"
 [[Minuit2]]
-arch = "x86_64"
+arch = "armv7l"
+call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d9e9fd02acc186543151e50fdddfa547119c73d3"
-libc = "musl"
+git-tree-sha1 = "5cb3bb9ca665def528923542e70bc1bfe160afe9"
+libc = "glibc"
 os = "linux"
 
     [[Minuit2.download]]
-    sha256 = "3bde3fe07ffd78c6c65c7fec5513942c4bbc0a354a086712a51eb4f640f31679"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.22.6+0/Minuit2.v6.22.6.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "a0d74d8904a3a52c1a4d131584b3073aceb00283dfb8a13f1b2c5914e84180bb"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.34.2+0/Minuit2.v6.34.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[Minuit2]]
-arch = "x86_64"
+arch = "armv7l"
+call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ffa2af5220eff8faa2efe36c665ee9e42a768218"
-libc = "musl"
+git-tree-sha1 = "3d6c8014c647369e714a8dc632c7e3f5608d0054"
+libc = "glibc"
 os = "linux"
 
     [[Minuit2.download]]
-    sha256 = "34909a0cb4a524c85ff245444c129c102b41591a8004c8c980af422b59672bde"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.22.6+0/Minuit2.v6.22.6.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "a59245142e1095c4a772c4ff492a6e89ff264aec452092cefad9aa80bf0fe258"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.34.2+0/Minuit2.v6.34.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[Minuit2]]
-arch = "x86_64"
-git-tree-sha1 = "822224c4a2ccdf5631a2b3350d6ce22d5f6d1bb8"
-os = "freebsd"
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "61b68429a54591643a1c4c3dd5b71851b5c2b910"
+libc = "glibc"
+os = "linux"
 
     [[Minuit2.download]]
-    sha256 = "f43a34124cb49c04dace90e5531b1d7330da5f56172ed2f79b184518aec6314d"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.22.6+0/Minuit2.v6.22.6.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "6735936e6482f8c56a3de025a9c6ace0d683d8b9f638fd1f4c9e96a0991b77f2"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.34.2+0/Minuit2.v6.34.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Minuit2]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "adbe92c6d6f45c857f0f32eb0c069de7e91ed96e"
+libc = "glibc"
+os = "linux"
+
+    [[Minuit2.download]]
+    sha256 = "505afe33326051f06b20857597b1238c3d9dcb0a7c685d7a81be84941a1a289b"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.34.2+0/Minuit2.v6.34.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Minuit2]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2875668f9cb08f1c8e43404e16a6c6f416314661"
+libc = "glibc"
+os = "linux"
+
+    [[Minuit2.download]]
+    sha256 = "36cd517a73a6a6eac745f07c311e9cea9537aea88b4a3ba3d41a3e242f79ee1f"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.34.2+0/Minuit2.v6.34.2.riscv64-linux-gnu-cxx03.tar.gz"
+[[Minuit2]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3d25672ae68b0c421084bb0cc035a61941218b23"
+libc = "glibc"
+os = "linux"
+
+    [[Minuit2.download]]
+    sha256 = "a8d8a4dce34c5a33bf57b1dd90d23a549c2d8b0d5fbe5c6ee365a477fa436700"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.34.2+0/Minuit2.v6.34.2.riscv64-linux-gnu-cxx11.tar.gz"
+[[Minuit2]]
+arch = "x86_64"
+git-tree-sha1 = "ce2caf211b7584d5f77782dd55705c0bd0e5412d"
+os = "macos"
+
+    [[Minuit2.download]]
+    sha256 = "167e107b91806ee7c90c60dc4c9994cb0e140416ea9ee0ddd8f569cde88ce951"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.34.2+0/Minuit2.v6.34.2.x86_64-apple-darwin.tar.gz"
 [[Minuit2]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "358882cf11431b6381eca26b395e3f40f806d323"
-os = "windows"
+git-tree-sha1 = "e0fe6856803960813ebd99697d7856832c022cd5"
+libc = "glibc"
+os = "linux"
 
     [[Minuit2.download]]
-    sha256 = "33c17e65ee5defe826e2fae4d38dd1a0f004c2ef62079ea668e46cbffacc1700"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.22.6+0/Minuit2.v6.22.6.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "d0fa90efce07d2c761f21e6f93c0450bf8d201d56a5221315585368de59177c9"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.34.2+0/Minuit2.v6.34.2.x86_64-linux-gnu-cxx03.tar.gz"
 [[Minuit2]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ec52bbf618cd9a6088d0dd72bccd400666585eff"
+git-tree-sha1 = "0938591bd9137ec1bc17c65d0ef6b3bb268ff00f"
+libc = "glibc"
+os = "linux"
+
+    [[Minuit2.download]]
+    sha256 = "4dc1d62ee335413d9a6ff6e052f812f8591277cea6fe02da7888044ebc395887"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.34.2+0/Minuit2.v6.34.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[Minuit2]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "90c91a314d7220846a43a4db155d33277c3cbd35"
 os = "windows"
 
     [[Minuit2.download]]
-    sha256 = "8826c87a6704045ae85f8ca49104b85625ef12d92efb176bb88809ac5045567d"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.22.6+0/Minuit2.v6.22.6.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "ce48132de4fbe6e3f0cd765d156b28eeb671769892538c8ee6f2bd4bb172d9e3"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.34.2+0/Minuit2.v6.34.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Minuit2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8f5988fe60c9c1646b7ecce875f57ad51dcb6a42"
+os = "windows"
+
+    [[Minuit2.download]]
+    sha256 = "875c188e9ff4dddca79a176ce87e10ca6c9255f91e8a99e5c03dda4bc134e746"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_jll.jl/releases/download/Minuit2-v6.34.2+0/Minuit2.v6.34.2.x86_64-w64-mingw32-cxx11.tar.gz"
